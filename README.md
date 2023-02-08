@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=201580ag&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#ffd966&height=300&section=header&text=201580ag&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=201580ag&show_icons=true&theme=great-gatsby)

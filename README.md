@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=WELCOME&fontSize=40)
 <br/>
 # 201580ag
-### Hi there 👋 </br>I'm 201580ag, I develop it as hobby.</br>Ask me any questions or questions here. DISCORD-ROSTMI#3770
+### Hi there 👋 </br>I'm 201580ag, I develop it as hobby.</br>Ask me any questions or questions here.</br>DISCORD-ROSTMI#3770
 
 ## 💻 My Stack
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c++&logoColor=white"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/> <img alt="GNU Bash" src ="https://img.shields.io/badge/GNU Bash-4EAA25.svg?&style=for-the-badge&logo=GNU Bash&logoColor=black"/> <img alt="PowerShell" src ="https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=PowerShell&logoColor=black"/>  

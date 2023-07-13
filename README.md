@@ -13,4 +13,4 @@
 
 <a href = "https://github.com/201580ag"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> 
 
-![Anurag's GitHub stats](https://github-readme-stats-201580ag-gmailcom.vercel.app/)
+[Anurag's GitHub stats](https://github-readme-stats-git-master-201580ag-gmailcom.vercel.app/)

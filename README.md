@@ -13,4 +13,7 @@
 
 <a href = "https://github.com/201580ag"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> 
 
-<img align="left" alt="201580ag's Github Stats" src="https://https://github-readme-stats-201580ag-gmailcom.vercel.app/api?username=201580ag&show_icons=true&hide_border=true" />
+<p align="center">
+<img height="180em" src="https://github-readme-stats-henna-omega-51.vercel.app/api?username=201580ag&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=201580aglayout=compact&hide=jupyter%20notebook" />
+</p>

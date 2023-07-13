@@ -12,8 +12,5 @@
 <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/> <img alt="Kali Linux" src ="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/> <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=black"/>
 
 <a href = "https://github.com/201580ag"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> 
-<br/>
-<p align="center">
-<img height="180em" src="github-readme-stats-xi-nine-34.vercel.app" />
-<img height="180em" src="https://github-readme-stats-4iafjfdfc-201580ag-gmailcom.vercel.app" />
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats-201580ag-gmailcom.vercel.app/)

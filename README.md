@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=WELCOME&fontSize=40)
 <br/>
-# 201580ag
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D98E20&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&width=435&lines=201580ag)](https://git.io/typing-svg)
 ### Hi there 👋 </br>I'm 201580ag, I develop it as hobby.</br>Ask me any questions or questions here.</br> DISCORD : rost0816
 
 ## 💻 My Stack

@@ -4,7 +4,8 @@
 # 201580ag
 ### Hi there 👋 </br>I'm 201580ag, I develop it as hobby.</br>Ask me any questions or questions here.</br> DISCORD : rost0816
 
-## 💻 My Stack [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F201580ag%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 💻 My Stack
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F201580ag%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c++&logoColor=white"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/> <img alt="GNU Bash" src ="https://img.shields.io/badge/GNU Bash-4EAA25.svg?&style=for-the-badge&logo=GNU Bash&logoColor=black"/> <img alt="PowerShell" src ="https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=PowerShell&logoColor=black"/>  
 
@@ -13,6 +14,8 @@
 <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/> <img alt="Kali Linux" src ="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/> <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=black"/>
 
 <a href = "https://github.com/201580ag"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=201580ag&theme=yellowdark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats-henna-omega-51.vercel.app/api?username=201580ag&show_icons=true&theme=great-gatsby" />
 <img height="180em" src="https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=201580ag&layout=compact&hide=jupyter%20notebook&theme=great-gatsby" />

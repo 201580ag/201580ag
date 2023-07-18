@@ -15,7 +15,6 @@
 
 <a href = "https://github.com/201580ag"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=201580ag&theme=yellowdark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-<img height="180em" src="https://github-readme-stats-henna-omega-51.vercel.app/api?username=201580ag&show_icons=true&theme=great-gatsby" />
+<img height="180em" src="https://github-readme-stats-henna-omega-51.vercel.app/api?username=201580ag&show_icons=true&theme=great-gatsby"
+  [![GitHub Streak](https://streak-stats.demolab.com?user=201580ag&theme=yellowdark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)/>
 <img height="180em" src="https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=201580ag&layout=compact&hide=jupyter%20notebook&theme=great-gatsby" />

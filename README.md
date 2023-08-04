@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=WELCOME&fontSize=40)
 
 ## About Me
-Hi there! I'm 201580ag, a hobbyist developer.
-My favorite language is Python.
+Hi there! I'm 201580ag, a hobbyist developer.  
+My favorite language is Python.  
 Feel free to ask me any questions or reach out to me on Discord: rost0816.
 
-![Profile Views](https://komarev.com/ghpvc/?username=201580ag)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/201580ag)
 
 ## 💻 My Stack
 - <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>

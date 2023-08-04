@@ -6,21 +6,21 @@
 Hi there! I'm 201580ag, a hobbyist developer. Feel free to ask me any questions or reach out to me on Discord: rost0816.
 
 ## 💻 My Stack
-- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> Python
-- <img alt="C" src="https://img.shields.io/badge/C-8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> C
-- <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c++&logoColor=white"/> C++
-- <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/> Node.js
-- <img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25.svg?&style=for-the-badge&logo=GNU Bash&logoColor=black"/> GNU Bash
-- <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=PowerShell&logoColor=black"/> PowerShell
+- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+- <img alt="C" src="https://img.shields.io/badge/C-8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+- <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
+- <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/>
+- <img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25.svg?&style=for-the-badge&logo=GNU Bash&logoColor=black"/>
+- <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=PowerShell&logoColor=black"/>
 
 ## 🛠️ IDEs
-- <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/> Visual Studio
-- <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> Visual Studio Code
-- <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&style=for-the-badge&logo=Notepad++&logoColor=white"/> Notepad++
+- <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> 
+- <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/>
+- <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&style=for-the-badge&logo=Notepad++&logoColor=white"/>
 
 ## 🖥️ Operating Systems
-- <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/> Linux
 - <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/> Kali Linux
+- <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/> Linux
 - <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=black"/> Ubuntu
 
 ## 📊 GitHub Stats

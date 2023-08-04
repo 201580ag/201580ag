@@ -29,7 +29,7 @@ Feel free to ask me any questions or reach out to me on Discord: rost0816.
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=201580ag&theme=yellowdark&date_format=%5BY.%5Dn.j)
-<table>
+**<table>
   <tr>
     <td>
       <img src="https://github-readme-stats-henna-omega-51.vercel.app/api?username=201580ag&show_icons=true&theme=great-gatsby" alt="GitHub Stats"/>
@@ -38,4 +38,4 @@ Feel free to ask me any questions or reach out to me on Discord: rost0816.
       <img src="https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=201580ag&layout=compact&hide=jupyter%20notebook&theme=great-gatsby" alt="Top Languages"/>
     </td>
   </tr>
-</table>
+</table>**

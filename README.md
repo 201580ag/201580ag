@@ -33,6 +33,3 @@ Feel free to ask me any questions or reach out to me on Discord: rost0816.
 ![GitHub Stats](https://github-readme-stats-henna-omega-51.vercel.app/api?username=201580ag&show_icons=true&theme=great-gatsby)
 
 ![Top Languages](https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=201580ag&layout=compact&hide=jupyter%20notebook&theme=great-gatsby)
-
-## Connect with Me
-<a href="https://github.com/201580ag"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>

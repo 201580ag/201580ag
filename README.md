@@ -3,7 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=WELCOME&fontSize=40)
 
 ## About Me
-Hi there! I'm 201580ag, a hobbyist developer. Feel free to ask me any questions or reach out to me on Discord: rost0816.
+Hi there! I'm 201580ag, a hobbyist developer.
+My favorite language is Python.
+Feel free to ask me any questions or reach out to me on Discord: rost0816.
+
+![Profile Views](https://komarev.com/ghpvc/?username=201580ag)
 
 ## 💻 My Stack
 - <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
@@ -19,9 +23,9 @@ Hi there! I'm 201580ag, a hobbyist developer. Feel free to ask me any questions 
 - <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&style=for-the-badge&logo=Notepad++&logoColor=white"/>
 
 ## 🖥️ Operating Systems
-- <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/> Kali Linux
-- <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/> Linux
-- <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=black"/> Ubuntu
+- <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=Kali Linux&logoColor=white"/>
+- <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+- <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=black"/>
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=201580ag&theme=yellowdark&date_format=%5BY.%5Dn.j)

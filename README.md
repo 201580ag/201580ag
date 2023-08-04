@@ -4,10 +4,10 @@
 
 ## About Me
 Hi there! I'm 201580ag, a hobbyist developer.  
-My favorite language is Python.  
+My favorite language is <span style="color: #FFEF00;">Python</span>.  
 Feel free to ask me any questions or reach out to me on Discord: rost0816.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/201580ag)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F201580ag&count_bg=%23FFEF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 💻 My Stack
 - <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>

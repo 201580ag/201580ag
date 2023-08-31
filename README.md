@@ -12,11 +12,14 @@ MY GIST >>> https://gist.github.com/201580ag
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=201580ag&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
-| Skills | Experiences |
-| --- | --- |
-| **Languages** | [Python](https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png), [C#](https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_line_logo_icon_146579.png), [C++](https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_line_logo_icon_146582.png), [Nodejs](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png), [BASH](https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_official_logo_icon_169099.png), [PowerShell](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png) |
-| **IDE** | [VScode](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png), [VSstudio](https://cdn.icon-icons.com/icons2/729/PNG/512/visualstudio_icon-icons.com_62717.png), [NotePad++](https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png) |
-| **Operating Systems** | [Windows](https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png), [Kali Linux](https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_original_logo_icon_146566.png), [Ubuntu](https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png) |
+|Skills|Experiences|
+|---|---|
+|1. Languages|
+<code><img alt="Python" height="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png">Python</a></code><code><img alt="C#" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_line_logo_icon_146579.png"><a>C#</a></code><code><img alt="C++" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_line_logo_icon_146582.png"><a>C++</a></code><code><img alt="Nodejs" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"><a>Nodejs</a></code><code><img alt="BASH" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_official_logo_icon_169099.png"><a>BASH</a></code><code><img alt="PowerShell" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png"><a>PowerShell</a></code>|
+|2. IDE|
+<code><img alt="VScode" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"><a>VScode</a></code><code><img alt="VSstudio" height="20" src="https://cdn.icon-icons.com/icons2/729/PNG/512/visualstudio_icon-icons.com_62717.png"><a>VSstudio</a></code><code><img alt="NotePad++" height="20" src="https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png"><a>NotePad++</a></code>|
+|3. Operating Systems|
+<code><img alt="Windows" height="20" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png"><a>Windows</a></code><code><img alt="Kali-linux" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_original_logo_icon_146566.png"><a>Kali-linux</a></code><code><img alt="Ubuntu" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"><a>Ubuntu</a></code>|
 
 
 

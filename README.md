@@ -12,6 +12,11 @@ MY GIST >>> https://gist.github.com/201580ag
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=201580ag&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
+|Skills|Experiences|
+|---|---|
+|1. Languages|</code> <code><img alt="1.2 Python" height="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png"> <a href="https://github.com/jogilsang/dev/tree/master/2.python">Python</a></code> <code><img alt="1.3 Node.js" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"> <a href="https://github.com/jogilsang/code/tree/master/2.nodejs">Node.js</a></code> <code><img alt="1.4 C" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"> <a href="https://github.com/jogilsang/dev/tree/master/3.c">C</a></code> <code><img alt="1.5 C++" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_original_logo_icon_146628.png"> <a href="https://github.com/jogilsang/dev/tree/master/4.cpp">C++</a></code> <code><img alt="1.6 Bash" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_bash_icon_130309.png"> <a href="https://github.com/jogilsang/devops/tree/master/4.linux/bash">Bash</a></code> <code><img alt="1.7 PowerShell" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/powershell_original_logo_icon_146530.png"> <a href="https://github.com/jogilsang/devops/tree/master/5.windows/powershell">PowerShell</a></code>|
+
+
 ## 💻 My Stack
 - <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 - <img alt="C" src="https://img.shields.io/badge/C-8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>

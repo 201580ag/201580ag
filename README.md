@@ -8,7 +8,7 @@ My favorite language is Python
 Feel free to ask me any questions or reach out to me on Discord: rost0816.  
 MY GIST >>> https://gist.github.com/201580ag  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F201580ag%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F201580ag%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/7bc43338-3692-47d1-a4fc-fe0f80b542df.svg)](https://wakatime.com/@7bc43338-3692-47d1-a4fc-fe0f80b542df)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=201580ag&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -25,4 +25,3 @@ MY GIST >>> https://gist.github.com/201580ag
 ![GitHub Stats](https://github-readme-stats-henna-omega-51.vercel.app/api?username=201580ag&show_icons=true&theme=great-gatsby)
 ![Top Languages](https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=201580ag&layout=compact&hide=jupyter%20notebook&theme=great-gatsby)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=201580ag)](https://wakatime.com/@201580ag)
-[![wakatime](https://wakatime.com/badge/user/7bc43338-3692-47d1-a4fc-fe0f80b542df.svg)](https://wakatime.com/@7bc43338-3692-47d1-a4fc-fe0f80b542df)

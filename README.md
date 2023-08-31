@@ -25,3 +25,4 @@ MY GIST >>> https://gist.github.com/201580ag
 ![GitHub Stats](https://github-readme-stats-henna-omega-51.vercel.app/api?username=201580ag&show_icons=true&theme=great-gatsby)
 ![Top Languages](https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=201580ag&layout=compact&hide=jupyter%20notebook&theme=great-gatsby)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=201580ag)](https://wakatime.com/@201580ag)
+[![wakatime](https://wakatime.com/badge/user/7bc43338-3692-47d1-a4fc-fe0f80b542df.svg)](https://wakatime.com/@7bc43338-3692-47d1-a4fc-fe0f80b542df)

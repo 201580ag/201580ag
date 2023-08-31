@@ -14,7 +14,7 @@ MY GIST >>> https://gist.github.com/201580ag
 
 |Skills|Experiences|
 |---|---|
-|1. Languages|</code> <code><img alt="1.2 Python" height="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png">Python</a>|
+|1. Languages|</code> <code><img alt="Python" height="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png">Python</a></code><code><img alt="C#" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_line_logo_icon_146579.png"><a>C#</a></code><code><img alt="C++" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_line_logo_icon_146582.png"><a>C++</a></code><code><img alt="Nodejs" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"><a>Nodejs</a></code><code><img alt="BASH" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_official_logo_icon_169099.png"><a>BASH</a></code><code><img alt="PowerShell" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png"><a>PowerShell</a></code>|
 
 
 

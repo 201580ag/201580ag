@@ -14,21 +14,10 @@ MY GIST >>> https://gist.github.com/201580ag
 
 | Skills | Experiences |
 | --- | --- |
-| **Languages** | 
-[Python](https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png),
-[C#](https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_line_logo_icon_146579.png),
-[C++](https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_line_logo_icon_146582.png),
-[Nodejs](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png),
-[BASH](https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_official_logo_icon_169099.png),
-[PowerShell](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png) |
-| **IDE** | 
-[VScode](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png),
-[VSstudio](https://cdn.icon-icons.com/icons2/729/PNG/512/visualstudio_icon-icons.com_62717.png),
-[NotePad++](https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png) |
-| **Operating Systems** | 
-[Windows](https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png),
-[Kali Linux](https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_original_logo_icon_146566.png),
-[Ubuntu](https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png) |
+| **Languages** | [Python](https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png), [C#](https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_line_logo_icon_146579.png), [C++](https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_line_logo_icon_146582.png), [Nodejs](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png), [BASH](https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_official_logo_icon_169099.png), [PowerShell](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png) |
+| **IDE** | [VScode](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png), [VSstudio](https://cdn.icon-icons.com/icons2/729/PNG/512/visualstudio_icon-icons.com_62717.png), [NotePad++](https://cdn.icon-icons.com/icons2/153/PNG/256/notepad_21851.png) |
+| **Operating Systems** | [Windows](https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png), [Kali Linux](https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_original_logo_icon_146566.png), [Ubuntu](https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png) |
+
 
 
 

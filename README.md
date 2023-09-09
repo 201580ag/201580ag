@@ -26,3 +26,6 @@ MY GIST >>> https://gist.github.com/201580ag
 ![Top Languages](https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=201580ag&layout=compact&hide=jupyter%20notebook&theme=great-gatsby)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=201580ag)](https://wakatime.com/@201580ag)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=201580ag&theme=github-compact&area=true&hide_border=true)
+
+
+![Metrics](https://metrics.lecoq.io/201580ag?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=America%2FNew%20York)

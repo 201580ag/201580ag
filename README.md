@@ -12,6 +12,7 @@ MY GIST >>> https://gist.github.com/201580ag
    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="30" height="30" />
    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" />
 </div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F201580ag%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/7bc43338-3692-47d1-a4fc-fe0f80b542df.svg)](https://wakatime.com/@7bc43338-3692-47d1-a4fc-fe0f80b542df)
 [![GitHub followers](https://img.shields.io/github/followers/201580ag?style=flat-square)](https://github.com/201580ag?tab=followers)
 [![trophy](https://github-profile-trophy.vercel.app/?username=201580ag&row=1&column=9&theme=gruvbox)](https://github.com/201580ag)

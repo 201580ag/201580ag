@@ -10,6 +10,8 @@ MY GIST >>> https://gist.github.com/201580ag
 
 <div style="display: flex; align-items: flex-start;">
    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
+   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
 </div>
 

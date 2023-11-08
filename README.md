@@ -27,7 +27,7 @@ MY GIST >>> https://gist.github.com/201580ag
 |3. Operating Systems|<code><img alt="Windows" height="20" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png"><a>Windows</a></code> <code><img alt="Kali-linux" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_original_logo_icon_146566.png"><a>Kali-linux</a></code> <code><img alt="Ubuntu" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"><a>Ubuntu</a></code>|
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=201580ag&theme=yellowdark&date_format=%5BY.%5Dn.j)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=201580ag&theme=yellowdark&date_format=%5BY.%5Dn.j)-->
 
 ![GitHub Stats](https://github-readme-stats-henna-omega-51.vercel.app/api?username=201580ag&show_icons=true&theme=great-gatsby)
 ![Top Languages](https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=201580ag&layout=compact&hide=jupyter%20notebook&theme=great-gatsby)

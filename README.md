@@ -5,7 +5,9 @@
 ## About Me
 Hi there! I'm 201580ag, a hobbyist developer.  
 My favorite language is `C++`, `Python`   
-↳ C++ is very difficult... 🙁   
+↳ C++ is very difficult... 🙁 
+[Dreamhack](https://dreamhack.io/)
+[Baekjoon](https://www.acmicpc.net/)
 Feel free to ask me any questions or reach out to me on Discord: rost0816.  
 MY GIST >>> https://gist.github.com/201580ag  
 

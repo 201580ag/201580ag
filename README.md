@@ -4,7 +4,7 @@
 
 ## About Me
 Hi there! I'm 201580ag, a hobbyist developer.  
-My favorite language is `C++`, 'Python'   
+My favorite language is `C++`, `Python`   
 ↳ C++ is very difficult... 🙁   
 Feel free to ask me any questions or reach out to me on Discord: rost0816.  
 MY GIST >>> https://gist.github.com/201580ag  
